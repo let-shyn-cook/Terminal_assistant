@@ -72,18 +72,11 @@
 
 ### 📹 **Watch AI Agent in Action**
 
-<video width="800" controls>
-  <source src="https://github.com/let-shyn-cook/Terminal_assistant/raw/main/demo/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![AI Agent Demo](./demo/demo.gif)
 
-*🎥 Full demo video showcasing all features*
+*🎥 Live demo showcasing all features*
 
----
-
-### 🎬 **GitHub Video Embed:**
-
-https://github.com/let-shyn-cook/Terminal_assistant/assets/demo.mp4
+> **📺 Full Video**: Check out the complete demo video at [`demo/demo.mp4`](./demo/demo.mp4)
 
 ---
 

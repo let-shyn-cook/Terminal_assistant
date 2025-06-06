@@ -72,11 +72,19 @@
 
 ### 📹 **Watch AI Agent in Action**
 
-https://github.com/let-shyn-cook/assets/demo/ai-agent-demo.mp4
+https://github.com/let-shyn-cook/Terminal_assistant/assets/demo.mp4
 
-*👆 Click to watch the full demo video*
+*🎥 Full demo video showcasing all features*
 
+---
 
+### 🎬 **Alternative Video Links:**
+
+[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/let-shyn-cook/Terminal_assistant/blob/main/demo/demo.mp4)
+
+[🔗 Direct Video Link](https://github.com/let-shyn-cook/Terminal_assistant/raw/main/demo/demo.mp4)
+
+---
 
 ### 🎥 **What you'll see:**
 - 🤖 Natural language command processing

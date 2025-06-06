@@ -70,22 +70,22 @@
 
 <div align="center">
 
-```
-$ gem what's the weather like today?
-🔍 Searching the web for current weather information...
-☀️ Today's weather: Sunny, 22°C with clear skies
+### 📹 **Watch AI Agent in Action**
 
-$ ls -la
-📁 Listing directory contents...
-total 48
-drwxr-xr-x 5 user user 4096 Jun  5 10:30 .
-drwxr-xr-x 3 user user 4096 Jun  5 10:00 ..
--rw-r--r-- 1 user user 1234 Jun  5 10:25 app.py
-drwxr-xr-x 2 user user 4096 Jun  5 10:20 src/
+https://github.com/let-shyn-cook/assets/demo/ai-agent-demo.mp4
 
-$ gem calculate the square root of 144
-🧮 Calculating: √144 = 12
-```
+*👆 Click to watch the full demo video*
+
+
+
+### 🎥 **What you'll see:**
+- 🤖 Natural language command processing
+- 🌐 Real-time web search integration  
+- 💻 System command execution
+- 🧮 Built-in calculator functionality
+- ⚡ Lightning-fast AI responses
+
+
 
 </div>
 

@@ -78,15 +78,6 @@
 
 > **📺 Full Video**: Check out the complete demo video at [`demo/demo.mp4`](./demo/demo.mp4)
 
----
-
-### 🎥 **What you'll see:**
-- 🤖 Natural language command processing
-- 🌐 Real-time web search integration  
-- 💻 System command execution
-- 🧮 Built-in calculator functionality
-- ⚡ Lightning-fast AI responses
-
 </div>
 
 ---

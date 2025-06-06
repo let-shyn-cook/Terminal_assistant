@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Agent Terminal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🤖 AI Agent Terminal</h1>
+            <p>Type commands or start with "gem" for natural language queries</p>
+        </div>
+        
+        <div class="terminal-container">
+            <div class="terminal" id="terminal">
+                <div class="terminal-output" id="output">
+                    <div class="welcome">
+                        Welcome to AI Agent Terminal!<br>
+                        • Type any system command to execute it<br>
+                        • Start with "gem" followed by natural language for AI assistance<br>
+                        • Type "clear" to clear the terminal<br>
+                    </div>
+                </div>
+                <div class="input-line">
+                    <span class="prompt">$ </span>
+                    <input type="text" id="commandInput" class="command-input" placeholder="Enter command..." autofocus>
+                </div>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <button id="clearBtn" class="btn btn-secondary">Clear Terminal</button>
+            <button id="historyBtn" class="btn btn-secondary">Command History</button>
+            <div class="status" id="status">Ready</div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

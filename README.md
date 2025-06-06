@@ -72,17 +72,18 @@
 
 ### 📹 **Watch AI Agent in Action**
 
-https://github.com/let-shyn-cook/Terminal_assistant/assets/demo.mp4
+<video width="800" controls>
+  <source src="https://github.com/let-shyn-cook/Terminal_assistant/raw/main/demo/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 *🎥 Full demo video showcasing all features*
 
 ---
 
-### 🎬 **Alternative Video Links:**
+### 🎬 **GitHub Video Embed:**
 
-[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/let-shyn-cook/Terminal_assistant/blob/main/demo/demo.mp4)
-
-[🔗 Direct Video Link](https://github.com/let-shyn-cook/Terminal_assistant/raw/main/demo/demo.mp4)
+https://github.com/let-shyn-cook/Terminal_assistant/assets/demo.mp4
 
 ---
 
@@ -92,8 +93,6 @@ https://github.com/let-shyn-cook/Terminal_assistant/assets/demo.mp4
 - 💻 System command execution
 - 🧮 Built-in calculator functionality
 - ⚡ Lightning-fast AI responses
-
-
 
 </div>
 
